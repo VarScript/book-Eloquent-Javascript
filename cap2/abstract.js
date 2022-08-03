@@ -1,0 +1,5 @@
+/*
+Ahora sabes que un programa está construido a partir de declaraciones, las cuales a veces pueden contener más declaraciones. Las declaraciones tienden acontener expresiones, que a su vez se pueden construir a partir de expresiones mas pequeñas. Poner declaraciones una despues de otras te da un programa que es ejecutado de arriba hacia abajo. Puedes introducir alteraciones en el flujo de control usando declaraciones condicionales (if, else, y switch) y ciclos (while, do, y for).
+Las vinculaciones se pueden usar para archivar datos bajo un nombre, y son utiles para el seguimiento de estado en tu programa. El entorno es el conjunto de vinculaciones que se definen. Los sistemas de JavaScript siempre incluyen por defecto un número de vinculaciones estándar útiles en tu entorno. Las funciones son valores especiales que encapsulan una parte del programa.
+Puedes invocarlas escribiendo nombreDeLaFuncion(argumento1, argumento2). Tal llamada a función es una expresión, y puede producir un valor.
+*/
