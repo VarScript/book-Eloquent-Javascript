@@ -21,7 +21,7 @@ for (let line = "#"; line.length < 8; line = line + "#")
   console.log(line);
 
 
-//Me
+//
 
 for (let n = "#"; n.length <= 7; n +="#")
 console.log(n);
